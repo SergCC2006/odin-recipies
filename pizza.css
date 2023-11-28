@@ -1,0 +1,56 @@
+.heya{
+
+    color:white;
+    background-color: red;  
+
+}
+
+.p{
+
+font-style: italic;
+font-weight:bold;
+
+}
+
+.ol{
+
+font-style: italic;
+font-weight:bold
+
+}
+
+.lis{
+
+    font-style: italic;
+    font-weight:bold
+
+
+}
+
+.chee{
+
+background-color:rgb(255, 255, 0);
+color:rgb(144, 144, 144)55, 255, 255); 
+}
+
+li{
+
+font-style:italic; 
+font-weight: bold;
+
+}
+
+p{
+
+    font-style:italic; 
+    font-weight: bold;
+    
+
+}
+
+ol{
+
+    font-style:italic; 
+    font-weight: bold;
+
+}
